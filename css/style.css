@@ -1,0 +1,102 @@
+@font-face {
+    font-family: brush;
+    src: url(/font/BRUSHSCI.TTF);
+}
+@font-face {
+    font-family: sim;
+    src: url(/font/simhei.ttf);
+}
+body{
+margin: 0px;
+padding: 0px;
+background-color: white;
+
+}
+.header{background-color: white;   }
+.header ul li a{
+height: 90px;margin-top: 0px;
+display:inline; text-decoration: none;
+}
+
+ul li {
+
+  display: inline;color: black; ;margin-right: 40px;  
+} 
+.d1{
+    text-decoration: none;
+}
+.d1 li{
+    font-family: brush; font-size: 50px; color: brown;
+}
+.d2{
+    text-decoration: none;font-size: 20px;font-family: sim;
+}
+.d3{
+    text-decoration: none;font-size: 20px;font-family: sim;
+}
+.d4{
+    text-decoration: none;font-size: 20px;font-family: sim;
+}
+.d5{
+    text-decoration: none;font-size: 20px;font-family: sim;
+}
+.d6{
+    text-decoration: none;font-size: 20px;font-family: sim;
+}
+.d7{
+    text-decoration: none;font-size: 20px;font-family: sim;
+}
+    .search{display: inline-flex; background-color: white;
+           margin-left: 200px;
+  
+    }
+#hr{
+    color: rgb(32, 32, 32);
+}
+.part1{
+    display: flex;
+    flex-wrap: wrap;background-color: white;
+}
+
+.part{
+  
+}
+.first{
+height:200px; width: 65%; display: inline-flex;
+background-color: aquamarine;justify-content: center;
+}
+
+#p1{margin: 8px; font-size: 30px;}
+.second{
+    height:200px; width: 25%;
+    background-color: rgb(172, 127, 255);display: flex;justify-content: center;
+
+}
+.b2{
+    background-color: rgb(219, 35, 90);font-size: 25px;color: white;padding: 25px;
+    border-radius: 6px;padding-bottom:15px; margin-top: 130px;margin-left: 5px;
+}
+.b3{
+    background-color: rgb(196, 188, 188);font-size: 25px;color: white;
+    border-radius: 6px; margin-top: 130px;padding: 25px;
+   }
+
+.third{
+    width: 10%;
+    background-color: white;justify-content: center;padding: 10px; 
+}
+
+.b4{margin-top: 5px; border-radius: 3px;
+}
+
+.b5{border-radius: 3px; margin-top: 5px;}
+
+.b6{border-radius: 3px;margin-top: 5px;}
+
+#test{
+border: 1px solid;
+    width: 800px;height: 1200; scroll-behavior: auto;text-align: justify;
+padding: 10px; justify-content: center;display:block;
+}
+
+
