@@ -84,10 +84,12 @@ background-color:white;justify-content: center;
 .b2{
     background-color: rgb(219, 35, 90);font-size: 25px;color: white;padding: 25px;
     border-radius: 10px;padding-bottom:15px; margin-top: 100px;margin-left: 10px; 
-}
+    border-color:rgb(219, 35, 90) ;
+   }
+
 .b3{
     background-color: rgb(196, 188, 188);font-size: 25px;color: white;
-    border-radius: 10px; margin-top: 100px;padding: 25px;
+    border-radius: 10px; margin-top: 100px;padding: 25px; border-color:rgb(196, 188, 188) ;
    }
 
 #d3{position: relative;
